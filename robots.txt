@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enosiacu.github.io/MvG/sitemap_index.txt
+Sitemap: https://enosiacu.github.io/bLT/sitemap_index.txt
+Sitemap: https://enosiacu.github.io/dnl/sitemap_index.txt
+Sitemap: https://enosiacu.github.io/idC/sitemap_index.txt
